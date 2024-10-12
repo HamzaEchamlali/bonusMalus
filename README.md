@@ -47,4 +47,4 @@ To use the application locally, follow these steps:
    
 3. Open Index.html: Open the index.html file in your preferred web browser to access the application.
 
-Alternatively, you can also use the application online by visiting the GitHub Pages link https://16h16.github.io/bonusMalus/
+Alternatively, you can also use the application online by visiting the GitHub Pages link [https://16h16.github.io/bonusMalus/](https://hamzaechamlali.github.io/bonusMalus/)
